@@ -61,7 +61,6 @@ a:hover {
   display: flex;
   list-style-type: none;
   padding: 16px 0;
-  overflow-x: auto;
 }
 
 .menu--clicked-item {
@@ -93,7 +92,6 @@ a.btn {
   font-weight: 800;
   text-align: center;
 }
-
 hr {
   width: 150px;
   height: 2px;
